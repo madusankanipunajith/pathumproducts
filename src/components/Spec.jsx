@@ -37,7 +37,7 @@ const Spec = () => (
                 </div>
 
                 <div className={layout.sectionImg}>
-                    <img src={customer} alt="bats" className="w-[100%] h-[600px]" />
+                    <img src={customer} alt="bats" className="sm:w-[100%] sm:h-[600px] h-[300px]" />
                 </div>
             </section>
         </div>
