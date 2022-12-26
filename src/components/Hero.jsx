@@ -25,9 +25,9 @@ function Hero() {
                     <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full flex-row'><span>Cricket Bats</span> <span className='sm:inline hidden'>Making</span></h1>
 
                     <p className={`${styles.paragraph} max-w-[100%] mt-5`}>
-                        Our team makes <b>softball-cricket bats </b>and <b>tapeball-cricket bats</b> under customer giver specifications. Currently we make only <b>softball and tapeball</b> cricket bats but we repair <b>every type of bats</b>. 
-                        Furthrmore, we sell <b>bat-grips, super-covers, bat-stickers and etc</b> seperately.
-                        Our plan is to extend this company for making leather bats though we <b>usually repair leather bats</b>.
+                        Our team makes <span className='text-gradient'>softball-cricket bats </span>and <span className='text-gradient'>tapeball-cricket bats</span> under customer giver specifications. Currently we make only <span className='text-gradient'>softball and tapeball</span> cricket bats but we repair <span className='text-gradient'>every type of bats</span>. 
+                        Furthrmore, we sell <span className='text-gradient'>bat-grips, super-covers, bat-stickers and etc</span> seperately.
+                        Our plan is to extend this company for making leather bats though we <span className='text-gradient'>usually repair leather bats</span>.
                     </p>
 
                 </div>

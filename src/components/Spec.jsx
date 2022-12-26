@@ -25,7 +25,7 @@ const Spec = () => (
                         We make bats <br className="sm:block hidden" /> under following standards
                     </h2>
                     <p className={`${styles.paragraph} max-w-[570px] mt-5`}>
-                        We usually make bats with <b>Grips,super cover, sticker and binding</b> under following standards. You can customize those specifications as you want while you are ordering ✌️
+                        We usually make bats with <span className='text-gradient'>Grips,super cover, sticker and binding</span> under following standards. You can customize those specifications as you want while you are ordering ✌️
                     </p>
 
                     {
