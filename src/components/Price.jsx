@@ -43,7 +43,8 @@ const Price = () => (
                     <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
                         You can purchase our quality services to lower prices comparing with other companies. We try to sell our products
                         and services as low as possible. <br/><br className="sm:inline hidden"/>
-                        <b className="text-[20px]">🛑 Island-Wide Delivery : Free 🛑</b>
+                        <b className="text-[20px]">🛑 Island-Wide Delivery : Available 🛑</b> <br/>
+                        <b className="text-[20px]">🛑 World-Wide Delivery: Available 🛑</b>
                     </p>
                     <img src={cover} alt= "cover" className="w-[100%] sm:h-[400px] sm:absolute relative sm:mt-0 mt-5 bottom-0"/>
                 </div>
