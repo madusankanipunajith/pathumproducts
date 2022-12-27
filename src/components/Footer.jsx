@@ -11,7 +11,7 @@ const Footer = () => (
                         <img
                             src={logo}
                             alt="pathum_products"
-                            className="w-[260px] h-[112.14px] object-fill"
+                            className="w-[260px] h-[108.14px] object-fill"
                         />
                         <p className={`${styles.paragraph} mt-4 max-w-[312px] md:text-start text-center`}>
                             PATHUM PRODUCTS <br />
