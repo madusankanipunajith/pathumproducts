@@ -9,7 +9,7 @@ function Navbar() {
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}>
         <nav className="w-full flex py-6 justify-between items-center navbar">
-          <img src={logo} alt="hoobook" className="w-[124px] h-[62px]"></img>
+          <img src={logo} alt="hoobook" className="w-[120px] h-[72px]"></img>
           <ul className="list-none sm:flex hidden justify-end items-center flex-1">
             {navLinks.map((nav, index) => (
               <li key={nav.id} className={`font-poppins font-normal cursor-pointer text-[20px] text-white hover:text-violet-700 ${index === navLinks.length - 1 ? 'mr-0' : 'mr-10'}`}>

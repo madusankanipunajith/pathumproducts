@@ -1,4 +1,4 @@
-import logo from './logos.png'
+import logo from './p_logo.png'
 import menu from './menu.png'
 import close from './close.png'
 import bat from './bat.jpg'
